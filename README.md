@@ -1,8 +1,8 @@
-#Participants
+## Participants
 
 Taha Masood
 
-##Questions
+## Questions
 
 1. I would pick within github actions because it would be able to find problems as I go through writing the code, which will make it so I can solve any problems that arise faster than if I would have left the testing to the end. 
 2. No
